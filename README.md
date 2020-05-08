@@ -1,7 +1,7 @@
 # 麻雀情報まとめにゃ！
 
-## 形の読み方について
-### 基本用語
+## 基本用語について
+### 基本の基本
 ・**順子(シュンツ,ジュンツ)** … <img width="24" alt="1m" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/1m.gif"><img width="24" alt="2m" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/2m.gif"><img width="24" alt="3m" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/3m.gif"> <img width="24" alt="2p" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/2p.gif"><img width="24" alt="3p" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/3p.gif"><img width="24" alt="4p" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/4p.gif"> <img width="24" alt="7s" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/7s.gif"><img width="24" alt="8s" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/8s.gif"><img width="24" alt="9s" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/9s.gif"> など
 
 ・**刻子(コーツ)** … <img width="24" alt="2m" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/2m.gif"><img width="24" alt="2m" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/2m.gif"><img width="24" alt="2m" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/2m.gif">,<img width="24" alt="3p" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/3p.gif"><img width="24" alt="3p" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/3p.gif"><img width="24" alt="3p" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/3p.gif">,<img width="24" alt="9s" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/9s.gif"><img width="24" alt="9s" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/9s.gif"><img width="24" alt="9s" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/9s.gif">,<img width="24" alt="5z" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/5z.gif"><img width="24" alt="5z" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/5z.gif"><img width="24" alt="5z" src="https://github.com/emtkmkk/majang_matome/blob/master/Material/5z.gif"> など
@@ -48,6 +48,9 @@
 混一色(3→2)、清一色(6→5)
 ### 例外
 二盃口(3→0)、断么九(ルールによる)
+
+##サンマ特有のルールにゃ！
+
 
 ## 便利なサイトにゃ！
 役出る順  
